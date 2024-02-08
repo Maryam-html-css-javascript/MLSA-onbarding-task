@@ -28,9 +28,12 @@ const siteProps = {
   title: "Graphic Designer||Content Creator||Developer",
   email: "Maryam.Siddiqui1@studentambassadors.com",
   gitHub: "Maryam-html-css-javascript",
+  instagram: "",
   linkedIn: "maryam-siddiqui-ghani",
   medium: "@maryam.saddique505",
+  twitter: "",
   youTube: "@captain8166?si=z2w5fukRKvDm6lLV",
+ 
 };
 
 const primaryColor = "#4E567E";
