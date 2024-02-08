@@ -51,10 +51,15 @@ const projectList = [
   {
     title: "Python Tasks",
     description:
-      "i created many python task and one of them is typing speed tool it describe how best to use tool.",
+      "I created many python task and one of them is typing speed tool it describe how best to use tool.",
     url: "https://github.com/Maryam-html-css-javascript/code-caver-typing-speed",
   },
-  
+  {
+    title: "Social Life",
+    description:
+      "I have wide community on my Social media to influnce youth",
+    url: "www.linkedin.com/in/maryam-siddiqui-ghani",
+  },
 ];
 
 const Portfolio = () => {
